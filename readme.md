@@ -90,7 +90,9 @@
 
 ### HTML
 
-*   Add some more points here...
+* Adjust the HTML priorityze it.
+![](html.png)
+
 
 ### JavaScript
 
